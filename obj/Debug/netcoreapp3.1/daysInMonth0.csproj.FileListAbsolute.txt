@@ -1,0 +1,13 @@
+/Users/yusifnazarbayov/Projects/daysInMonth0/bin/Debug/netcoreapp3.1/daysInMonth0.deps.json
+/Users/yusifnazarbayov/Projects/daysInMonth0/bin/Debug/netcoreapp3.1/daysInMonth0.runtimeconfig.json
+/Users/yusifnazarbayov/Projects/daysInMonth0/bin/Debug/netcoreapp3.1/daysInMonth0.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Projects/daysInMonth0/bin/Debug/netcoreapp3.1/daysInMonth0.dll
+/Users/yusifnazarbayov/Projects/daysInMonth0/bin/Debug/netcoreapp3.1/daysInMonth0.pdb
+/Users/yusifnazarbayov/Projects/daysInMonth0/obj/Debug/netcoreapp3.1/daysInMonth0.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/Projects/daysInMonth0/obj/Debug/netcoreapp3.1/daysInMonth0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/Projects/daysInMonth0/obj/Debug/netcoreapp3.1/daysInMonth0.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Projects/daysInMonth0/obj/Debug/netcoreapp3.1/daysInMonth0.AssemblyInfo.cs
+/Users/yusifnazarbayov/Projects/daysInMonth0/obj/Debug/netcoreapp3.1/daysInMonth0.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Projects/daysInMonth0/obj/Debug/netcoreapp3.1/daysInMonth0.dll
+/Users/yusifnazarbayov/Projects/daysInMonth0/obj/Debug/netcoreapp3.1/daysInMonth0.pdb
+/Users/yusifnazarbayov/Projects/daysInMonth0/obj/Debug/netcoreapp3.1/daysInMonth0.genruntimeconfig.cache
