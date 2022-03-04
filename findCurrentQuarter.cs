@@ -6,30 +6,30 @@ namespace daysInMonth0
     {
         static void Main(string[] args)
         {
-            var Month = Convert.ToInt32(Console.ReadLine());
+            var Month = Console.ReadLine();
 
 
-            if (Month>0 && Month<4)
+            if (Month == "January" || Month == "February" || Month == "March")
             {
-                Console.WriteLine("I rüb");
+                Console.WriteLine("1st Quarter");
             }
-            else if (Month > 3 && Month < 7)
+            else if (Month == "April" || Month == "May" || Month == "June")
             {
-                Console.WriteLine("II rüb");
+                Console.WriteLine("2nd Quarter");
             }
-            else if (Month > 6 && Month < 9)
+            else if (Month == "July" || Month == "August" || Month == "September")
             {
-                Console.WriteLine("III rüb");
+                Console.WriteLine("3rd Quarter");
             }
-            else if (Month > 8 && Month < 13)
+            else if (Month == "October" || Month == "November" || Month == "December")
             {
-                Console.WriteLine("IV rüb");
+                Console.WriteLine("4th Quarter");
             }
             else
             {
-                Console.WriteLine("Düzgün rəqəm daxil edin");
+                Console.WriteLine("There is no such Month");
             }
-                
+
         }
     }
 }
